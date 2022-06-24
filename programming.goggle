@@ -1,0 +1,20 @@
+! name: Programming solutions
+! description: Finding best results for programming questions like "list comprehension in python" or "how to put a discord bot in heroku". Mainly for Python, Java and web development.
+! public: true
+! author: Me
+! license: MIT
+
+$boost=5,site=w3schools.com
+$boost=5,site=developer.mozilla.org
+$boost=5,site=docs.python.org
+$boost=5,site=docs.oracle.org
+$boost=5,site=stackoverflow.com
+$boost=5,site=geeksforgeeks.org
+
+$boost=3,site=python.org
+
+$boost=3,site=medium.com
+
+$boost=5,site=github.com
+
+$downrank=10,site=youtube.com
