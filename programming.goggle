@@ -4,6 +4,8 @@
 ! author: Me
 ! license: MIT
 
+$discard
+
 $boost=5,site=w3schools.com
 $boost=5,site=developer.mozilla.org
 $boost=5,site=docs.python.org
@@ -16,5 +18,3 @@ $boost=3,site=python.org
 $boost=3,site=medium.com
 
 $boost=5,site=github.com
-
-$downrank=10,site=youtube.com
