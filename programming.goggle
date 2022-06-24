@@ -5,16 +5,12 @@
 ! license: MIT
 
 $discard
-
 $boost=5,site=w3schools.com
 $boost=5,site=developer.mozilla.org
 $boost=5,site=docs.python.org
 $boost=5,site=docs.oracle.org
 $boost=5,site=stackoverflow.com
 $boost=5,site=geeksforgeeks.org
-
 $boost=3,site=python.org
-
 $boost=3,site=medium.com
-
 $boost=5,site=github.com
